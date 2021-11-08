@@ -125,5 +125,5 @@ end
 return {
     helpers = M,
     setup = setup,
-    tabline = warning,
+    -- tabline = warning,
 }
